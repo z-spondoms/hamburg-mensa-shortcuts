@@ -1,4 +1,4 @@
-# STWHH Mensa Shortcuts für Apple Kurzbefehle
+# Hamburg Mensa Shortcuts (für Apple Kurzbefehle)
 
 Apple Kurzbefehle für die Mensen des Studierendenwerks Hamburg.
 Mit einem Tap den aktuellen Speiseplan direkt auf iPhone, iPad oder Mac anzeigen lassen, ohne extra App und ohne sich durch die Website zu klicken.
