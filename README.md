@@ -11,18 +11,18 @@ Have fun!
 
 | Mensa | Shortcut | Website/Quelle |
 | - | - | - |
-| ALLE | [Apple Shortcut](https://www.icloud.com/shortcuts/00078197b2a34d47a95e3e4d42eaab5e) | * |
-| Philturm | [Apple Shortcut](https://www.icloud.com/shortcuts/211972541b134241947c5ff39196afbd) | [.../mensa-philturm](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-philturm) |
-| Studierendenhaus | [Apple Shortcut](https://www.icloud.com/shortcuts/8ac59d2f8540421f9d63f125cd150001) | [.../mensa-studierendenhaus](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-studierendenhaus) |
-| Bergedorf | [Apple Shortcut](https://www.icloud.com/shortcuts/ba4e0b6236a04b6bb7b4887a75dbcec1) | [.../mensa-bergedorf](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-bergedorf) |
-| MIN | [Apple Shortcut](https://www.icloud.com/shortcuts/1b3fb1b21400477eb6536e902238b178) | [.../mensa-min](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-min) |
-| Harburg | [Apple Shortcut](https://www.icloud.com/shortcuts/d002a67eccc4470592913fc2d8d28872) | [.../mensa-harburg](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-harburg) |
-| HCU | [Apple Shortcut](https://www.icloud.com/shortcuts/1d1b1b5e7ab84d05b5d5deab803136fb) | [.../mensa-hcu](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-hcu) |
-| Finkenau | [Apple Shortcut](https://www.icloud.com/shortcuts/1f5c600e35364cb09176434b5912c2b7) | [.../mensa-finkenau](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-finkenau) |
-| Botanischer Garten | [Apple Shortcut](https://www.icloud.com/shortcuts/72d39861b8f4419b983e77b4e8361461) | [.../mensa-botanischer-garten](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-botanischer-garten) |
-| Berliner Tor | [Apple Shortcut](https://www.icloud.com/shortcuts/35ac8ce04e454cb98d36552a85fcd20d) | [.../mensa-berliner-tor](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-berliner-tor) |
-| Bucerius Law School | [Apple Shortcut](https://www.icloud.com/shortcuts/12292dc1c8294b9dbe8ae4804f634b98) | [.../mensa-bucerius-law-school](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-bucerius-law-school) |
-| Blattwerk | [Apple Shortcut](https://www.icloud.com/shortcuts/4f5e885a414446cd8005bd2320cb0ed7) | [.../blattwerk-deine-vegetarische-mensa](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/blattwerk-deine-vegetarische-mensa) |
+| ALLE | [Download](https://www.icloud.com/shortcuts/250e72fce8a5461280bfd35c5b9dc265) | * |
+| Philturm | [Download](https://www.icloud.com/shortcuts/9787dab05851474eb4d1651792b6b135) | [https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-philturm](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-philturm) |
+| Studierendenhaus | [Download](https://www.icloud.com/shortcuts/d7a3de6dbee44dd3ac1e4b97eaf9a78d) | [https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-studierendenhaus](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-studierendenhaus) |
+| Bergedorf | [Download](https://www.icloud.com/shortcuts/54aa050830614afeac5311ba70e13af0) | [https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-bergedorf](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-bergedorf) |
+| MIN | [Download](https://www.icloud.com/shortcuts/15cd28d060064a9782debf5481537348) | [https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-min](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-min) |
+| Harburg | [Download](https://www.icloud.com/shortcuts/50d9dfa849f3408e805c0dac8f712d68) | [https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-harburg](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-harburg) |
+| HCU | [Download](https://www.icloud.com/shortcuts/206d790ba70f489782c5abfe12fa14db) | [https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-hcu](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-hcu) |
+| Finkenau | [Download](https://www.icloud.com/shortcuts/5e919ecd9dbc40c99625b7c5e95aec21) | [https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-finkenau](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-finkenau) |
+| Botanischer Garten | [Download](https://www.icloud.com/shortcuts/6c24d09f05914bdb87eafbdf0bad4a34) | [https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-botanischer-garten](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-botanischer-garten) |
+| Berliner Tor | [Download](https://www.icloud.com/shortcuts/2ac7bc93a0044872829c99102127285c) | [https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-berliner-tor](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-berliner-tor) |
+| Bucerius Law School | [Download](https://www.icloud.com/shortcuts/db4377c892f64690b6fe32daae3395fc) | [https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-bucerius-law-school](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-bucerius-law-school) |
+| Blattwerk | [Download](https://www.icloud.com/shortcuts/f7cc52907ef04e8aa71f014aa62ecba8) | [https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/blattwerk-deine-vegetarische-mensa](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/blattwerk-deine-vegetarische-mensa) |
 
 ## Hinweis
 
